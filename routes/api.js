@@ -31,9 +31,4 @@ router.get("/api/workouts/range", (req, res) => {
   .catch((err) => { res.json(err) });
 });
 
-// delete workout
-router.delete("/api/workouts", ({ body }, res) => {
-  Workout.findByIdAndDelete(body.id);
-});
-
 module.exports = router;
