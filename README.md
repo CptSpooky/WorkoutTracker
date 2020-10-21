@@ -10,7 +10,7 @@
 
 ## Description
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
-[App Link](https://desolate-fjord-48868.herokuapp.com/)
+[App Link](https://peaceful-sands-64341.herokuapp.com/)
 ![App Img](https://user-images.githubusercontent.com/66426144/96758660-089d7300-13a5-11eb-963b-ae6710055e37.png)
 
 With the Fitness Tracker app users can create exercises and check out your stats!
